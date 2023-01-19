@@ -14,4 +14,10 @@ if(age < 20) {console.log('I am a teenager');}
 else if(age > 20) {console.log('I am an adult');}
 else {console.log('I am an adult');}
 
-
+const num= ['3','17','6','96','15']
+console.log(num[0]);
+console.log(num[1]);
+console.log(num[2]);
+console.log(num[3]);
+console.log(num[4]);
+console.log(num[5]);
